@@ -1,0 +1,24 @@
+* {
+    font-size: larger;
+}
+
+.papadelospollitos {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+#text1 {
+    text-align: center;
+    padding-top: 12%;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#output {
+    text-align: center;
+}
