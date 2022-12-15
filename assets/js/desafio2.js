@@ -14,5 +14,3 @@ function suma() {
         document.querySelector('#resultado').innerHTML = "Llevas demasiados stickers"
     }
 };
-
-document.querySelector('#btn').addEventListener('click', suma);
